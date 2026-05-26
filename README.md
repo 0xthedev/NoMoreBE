@@ -7,7 +7,7 @@ GTA Online BattlEye Bypass
 - Legacy/Enhanced
 - Windows 11 only (24H2-25H2)
 
-- ## Features
+## Features
 - Bypass BE (use mods online)
 - Cherax injection supported [UNOFFICIAL]
 
